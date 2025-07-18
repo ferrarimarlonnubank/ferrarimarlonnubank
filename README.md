@@ -27,9 +27,6 @@
 </p>
 
 <br>
-<br>
-<br>
-<br>
 
 <h3 align="left">My Contents:</h3>
 
