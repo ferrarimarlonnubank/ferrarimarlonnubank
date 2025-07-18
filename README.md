@@ -17,8 +17,6 @@
 <br>
 <br>
 
-#
-
 ### Profiles
 <p align="left">
 <a href="https://www.youtube.com/@profmarlonferrari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@profmarlonferrari" height="40" width="20" /></a>  
@@ -27,7 +25,11 @@
 <a href="https://medium.com/@marlon.ferrari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@marlon.ferrari" height="40" width="20" /></a>
 
 </p>
-#
+
+<br>
+<br>
+<br>
+<br>
 
 <h3 align="left">My Contents:</h3>
 
