@@ -10,7 +10,7 @@
 
 ### 🖊️ Credentials
 
-<a href="https://brasilopenbadge.com.br/pages/profile/marlon-ferrari"><img src="certs_up_bk.png" align="left" width="500">
+<a href="https://brasilopenbadge.com.br/pages/profile/marlon-ferrari"><img src="aws.png" align="left" width="120">
 
 <br>
 <br>
